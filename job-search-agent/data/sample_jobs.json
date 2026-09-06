@@ -1,0 +1,46 @@
+[
+  {
+    "job_id": "JOBSEARCH_310",
+    "title": "AI Product Developer Intern",
+    "company": "fritado AI",
+    "location": "BTM Layout, Bengaluru, Karnataka",
+    "source": "indeed",
+    "url": "https://to.indeed.com/aavgcmyclmkd",
+    "posted_on": "2026-08-31",
+    "job_type": "Internship",
+    "description": "AI Developer Intern role. Work with LLMs, Generative AI APIs, prompt engineering, AI agents, automation workflows. Must have: basic Python/JS, understanding of APIs/JSON, interest in Generative AI and LLMs, prompt engineering concepts. Good to have: LangChain, LangGraph, CrewAI, vector databases, RAG, embeddings, previous AI/ML projects."
+  },
+  {
+    "job_id": "JOBSEARCH_311",
+    "title": "ML Engineer",
+    "company": "Freshers JobSolution",
+    "location": "Remote",
+    "source": "indeed",
+    "url": "https://to.indeed.com/aa6k9gbr96hf",
+    "posted_on": "2026-08-19",
+    "job_type": "Full-time",
+    "description": "ML Engineer (Fresher) to support development, training, and evaluation of ML models. Strong foundation in Python, core ML concepts (supervised/unsupervised, regression, classification). Basic knowledge of NumPy, Pandas, Scikit-learn. Preferred: personal/academic ML projects, TensorFlow/PyTorch, SQL, Git."
+  },
+  {
+    "job_id": "JOBSEARCH_313",
+    "title": "AI Developer (Junior)",
+    "company": "Olbiz Consulting",
+    "location": "Remote",
+    "source": "indeed",
+    "url": "https://to.indeed.com/aaydxpkqrvs9",
+    "posted_on": "2026-06-22",
+    "job_type": "Permanent",
+    "description": "Junior AI Developer, 0-3 years. Work on Computer Vision applications, NLP and LLM-powered systems, RAG based solutions, AI integrations. Required: Python, basic ML/DL, familiarity with Computer Vision or NLP/LLMs or RAG pipelines/Vector Databases. Good to have: PyTorch/TensorFlow, LangChain/LlamaIndex, APIs."
+  },
+  {
+    "job_id": "JOBSEARCH_314",
+    "title": "AI Engineer - Fresher",
+    "company": "Tayana Solutions",
+    "location": "Remote",
+    "source": "indeed",
+    "url": "https://to.indeed.com/aaw4mkqpktbn",
+    "posted_on": "2026-08-12",
+    "job_type": "Full-time",
+    "description": "AI Engineer Fresher role. Develop and implement AI/ML models, work with PyTorch, TensorFlow, Scikit-learn, Hugging Face. Explore Generative AI, LLMs, NLP, computer vision. Prepare/clean datasets, model training/evaluation/deployment. Required: Python, basic ML/DL, algorithms, SQL/Git/REST APIs preferred."
+  }
+]

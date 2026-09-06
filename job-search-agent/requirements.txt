@@ -1,0 +1,7 @@
+langgraph
+scikit-learn
+pandas
+pypdf
+python-docx
+anthropic
+streamlit
