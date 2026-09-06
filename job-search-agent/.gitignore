@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.pyc
+.venv/
+venv/
+uploads/
+generated/
+data/applications.db
+.streamlit/
